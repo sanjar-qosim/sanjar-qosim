@@ -15,8 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://selenium.dev" target="_blank" rel="noreferrer"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/selenium.svg" alt="android" width="40" height="40"/></a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/cypress.svg" alt="cassandra" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/postman.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/postman.svg" alt="git" width="40" height="40"/> </a>
