@@ -1,15 +1,13 @@
 <h2 align="center">Hi 👋, I'm Sanjar</h2>
 
-- 🔭 I’m currently working as QA Engineer
-- ⚡ I’m currently learning Automation Testing
+- 🔭 I’m currently working as QA Engineer (Backend)
 - 💬 Ask me about software testing
-- 📫 How to reach me: https://t.me/sanjar_qosim
+- 📫 How to reach me: https://t.me/ksmvsr
 - :notebook_with_decorative_cover: My blog: https://t.me/qa_uz_blog
 
 <h3 align="left">Profiles on social network:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjarqosim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansur-k-a02259252/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sanjar_qosim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansur.4795" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
