@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋, I'm Sanjar</h2>
 
-- 🔭 I’m currently working as QA Engineer (Backend)
+- 👨‍💻 I’m currently working as QA Engineer (Backend)
 - 💬 Ask me about software testing
 - 📫 How to reach me: https://t.me/ksmvsr
+- 🖥 YouTube channel: https://www.youtube.com/@QAStandUp
 - :notebook_with_decorative_cover: My blog: https://t.me/qa_uz_blog
 
 <h3 align="left">Profiles on social network:</h3>
